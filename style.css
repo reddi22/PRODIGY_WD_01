@@ -38,7 +38,7 @@ p {
   min-height: 100vh;
   background-image: linear-gradient(rgba(9, 24, 29, 0.9), rgba(9, 24, 29, 0.9)),
     url("images/bg.webp");
-  background-size: cover;
+  background-size: 100% 100%;
   background-position: center center;
   background-repeat: no-repeat;
 }
